@@ -1,5 +1,5 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=silverbirder&count_private=true&show_icons=true)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=silverbirder&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sho-ichi&count_private=true&show_icons=true)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=sho-ichi&layout=compact)
 
 ### Hi there 👋
 ### I’m currently learning Github.
